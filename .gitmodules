@@ -1,0 +1,3 @@
+[submodule "vtkm"]
+	path = vtkm
+	url = https://github.com/player1537-forks/VTK-m.git
